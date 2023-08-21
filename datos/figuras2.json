@@ -1,0 +1,26 @@
+[
+    {
+    "marca":"Bandai",
+    "nombre":"Pluto",
+    "precio":250,
+    "stock":30
+    },
+    {
+    "marca":"Bandai",
+    "nombre":"Thor",
+    "precio":600,
+    "stock":10
+    },
+    {
+    "marca":"Bandai",
+    "nombre":"Vegeta",
+    "precio":400,
+    "stock":50
+    },
+    {
+    "marca":"Bandai",
+    "nombre":"Wonder Woman",
+    "precio":360,
+    "stock":15
+    }
+]

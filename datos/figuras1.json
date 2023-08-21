@@ -1,0 +1,26 @@
+[  
+   {
+    "marca":"Hot toys",
+    "nombre":"Spider-Man",
+    "precio":400,
+    "stock":3
+   },
+   {
+    "marca":"Hot toys",
+    "nombre":"Hellboy",
+    "precio":600,
+    "stock":1
+   },
+   {
+    "marca":"Hot toys",
+    "nombre":"Batman",
+    "precio":600,
+    "stock":2
+   },
+   {
+    "marca":"Hot toys",
+    "nombre":"Superman",
+    "precio":900,
+    "stock":5
+   }
+]
